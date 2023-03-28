@@ -1,0 +1,20 @@
+
+    .multiplyBox {
+        width: 300px;
+        height: 200px;
+        background-color: blueviolet;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+        input{
+            margin: 5px 0;
+        }
+
+        button{
+            margin-top: 20px;
+            width: 80px;
+            height: 20px;
+        }
+    }
